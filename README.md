@@ -1,6 +1,6 @@
 # House Price Prediction - Machine Learning Project
 
-## 🎯 Project Overview
+## Project Overview
 
 This project demonstrates a complete machine learning workflow for predicting house prices using three different algorithms:
 
@@ -8,7 +8,7 @@ This project demonstrates a complete machine learning workflow for predicting ho
 2. **Random Forest Regressor** - An ensemble method that handles non-linear relationships
 3. **Gradient Boosting Regressor** - A powerful boosting algorithm for complex patterns
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -54,7 +54,7 @@ python house_price_prediction.py
 - Feature importance analysis
 - Model comparison and visualization
 
-## 📈 Key Features
+## Key Features
 
 - **Comprehensive Data Analysis**: Visualizations showing relationships between features
 - **Multiple Model Comparison**: Side-by-side performance evaluation
@@ -62,7 +62,7 @@ python house_price_prediction.py
 - **Feature Importance**: Understanding which features matter most
 - **Real-world Predictions**: Example of predicting prices for new houses
 
-## 🎓 Learning Objectives
+## Learning Objectives
 
 After completing this project, you will understand:
 
@@ -73,7 +73,7 @@ After completing this project, you will understand:
 5. **Feature Engineering**: How to create and select meaningful features
 6. **Model Interpretation**: How to understand what your model learned
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 house_price_prediction/
@@ -85,7 +85,7 @@ house_price_prediction/
 └── feature_importance.png      # Feature importance plots (generated)
 ```
 
-## 🔧 Customization
+## Customization
 
 You can easily modify this project by:
 
@@ -94,7 +94,7 @@ You can easily modify this project by:
 3. **Trying new algorithms**: Add SVM, Neural Networks, or other models
 4. **Modifying evaluation**: Add new metrics or validation strategies
 
-## 📚 Next Steps
+## Next Steps
 
 To extend your learning:
 
@@ -103,7 +103,7 @@ To extend your learning:
 3. **Deploy your model**: Create a web app using Flask or Streamlit
 4. **Explore other problems**: Apply similar techniques to different domains
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork this project and submit improvements or additional features!
 
@@ -113,7 +113,7 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Happy Learning! 🎉**
+**Happy Learning! **
 
 *This project is designed for educational purposes to help you understand machine learning concepts through hands-on practice.*
 
