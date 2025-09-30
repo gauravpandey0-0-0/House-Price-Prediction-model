@@ -30,7 +30,7 @@ pip install -r requirements.txt
 python house_price_prediction.py
 ```
 
-## 📊 What This Project Demonstrates
+## What This Project Demonstrates
 
 ### 1. **Data Science Workflow**
 - Data loading and exploration
@@ -107,14 +107,5 @@ To extend your learning:
 
 Feel free to fork this project and submit improvements or additional features!
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-**Happy Learning! **
-
-*This project is designed for educational purposes to help you understand machine learning concepts through hands-on practice.*
 
 # House-Price-Prediction-model
